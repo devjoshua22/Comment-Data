@@ -2,7 +2,8 @@
   "name": "data",
   "private": true,
   "scripts": {
-    "start": "json-server db.json --host 0.0.0.0 --port 8000"
+    "start": "json-server db.json --host 0.0.0.0 --port 8000",
+    "start": "json-server data.json --host 0.0.0.0 --port 8001"
   },
   "dependencies": {
     "json-server": "0.17.4"
