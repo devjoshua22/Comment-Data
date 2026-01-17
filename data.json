@@ -32,7 +32,7 @@
         "name": "Macaron Mix of Five",
         "category": "Macaron",
         "price": 8.00
-     },
+     }
      {
         "image": {
             "thumbnail": "./assets/images/image-tiramisu-thumbnail.jpg",
